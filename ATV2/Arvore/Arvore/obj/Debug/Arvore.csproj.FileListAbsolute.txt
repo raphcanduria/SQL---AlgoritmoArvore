@@ -1,0 +1,7 @@
+C:\Users\raphs\OneDrive\Área de Trabalho\Raiz\Arvore\Arvore\bin\Debug\Arvore.exe.config
+C:\Users\raphs\OneDrive\Área de Trabalho\Raiz\Arvore\Arvore\bin\Debug\Arvore.exe
+C:\Users\raphs\OneDrive\Área de Trabalho\Raiz\Arvore\Arvore\bin\Debug\Arvore.pdb
+C:\Users\raphs\OneDrive\Área de Trabalho\Raiz\Arvore\Arvore\obj\Debug\Arvore.csproj.AssemblyReference.cache
+C:\Users\raphs\OneDrive\Área de Trabalho\Raiz\Arvore\Arvore\obj\Debug\Arvore.csproj.CoreCompileInputs.cache
+C:\Users\raphs\OneDrive\Área de Trabalho\Raiz\Arvore\Arvore\obj\Debug\Arvore.exe
+C:\Users\raphs\OneDrive\Área de Trabalho\Raiz\Arvore\Arvore\obj\Debug\Arvore.pdb

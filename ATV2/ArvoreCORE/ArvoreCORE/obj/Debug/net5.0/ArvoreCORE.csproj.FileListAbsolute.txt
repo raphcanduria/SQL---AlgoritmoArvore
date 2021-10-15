@@ -1,0 +1,16 @@
+C:\Users\raphs\OneDrive\Área de Trabalho\Raiz\ArvoreCORE\ArvoreCORE\bin\Debug\net5.0\ArvoreCORE.exe
+C:\Users\raphs\OneDrive\Área de Trabalho\Raiz\ArvoreCORE\ArvoreCORE\bin\Debug\net5.0\ArvoreCORE.deps.json
+C:\Users\raphs\OneDrive\Área de Trabalho\Raiz\ArvoreCORE\ArvoreCORE\bin\Debug\net5.0\ArvoreCORE.runtimeconfig.json
+C:\Users\raphs\OneDrive\Área de Trabalho\Raiz\ArvoreCORE\ArvoreCORE\bin\Debug\net5.0\ArvoreCORE.runtimeconfig.dev.json
+C:\Users\raphs\OneDrive\Área de Trabalho\Raiz\ArvoreCORE\ArvoreCORE\bin\Debug\net5.0\ArvoreCORE.dll
+C:\Users\raphs\OneDrive\Área de Trabalho\Raiz\ArvoreCORE\ArvoreCORE\bin\Debug\net5.0\ref\ArvoreCORE.dll
+C:\Users\raphs\OneDrive\Área de Trabalho\Raiz\ArvoreCORE\ArvoreCORE\bin\Debug\net5.0\ArvoreCORE.pdb
+C:\Users\raphs\OneDrive\Área de Trabalho\Raiz\ArvoreCORE\ArvoreCORE\obj\Debug\net5.0\ArvoreCORE.csproj.AssemblyReference.cache
+C:\Users\raphs\OneDrive\Área de Trabalho\Raiz\ArvoreCORE\ArvoreCORE\obj\Debug\net5.0\ArvoreCORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphs\OneDrive\Área de Trabalho\Raiz\ArvoreCORE\ArvoreCORE\obj\Debug\net5.0\ArvoreCORE.AssemblyInfoInputs.cache
+C:\Users\raphs\OneDrive\Área de Trabalho\Raiz\ArvoreCORE\ArvoreCORE\obj\Debug\net5.0\ArvoreCORE.AssemblyInfo.cs
+C:\Users\raphs\OneDrive\Área de Trabalho\Raiz\ArvoreCORE\ArvoreCORE\obj\Debug\net5.0\ArvoreCORE.csproj.CoreCompileInputs.cache
+C:\Users\raphs\OneDrive\Área de Trabalho\Raiz\ArvoreCORE\ArvoreCORE\obj\Debug\net5.0\ArvoreCORE.dll
+C:\Users\raphs\OneDrive\Área de Trabalho\Raiz\ArvoreCORE\ArvoreCORE\obj\Debug\net5.0\ref\ArvoreCORE.dll
+C:\Users\raphs\OneDrive\Área de Trabalho\Raiz\ArvoreCORE\ArvoreCORE\obj\Debug\net5.0\ArvoreCORE.pdb
+C:\Users\raphs\OneDrive\Área de Trabalho\Raiz\ArvoreCORE\ArvoreCORE\obj\Debug\net5.0\ArvoreCORE.genruntimeconfig.cache
